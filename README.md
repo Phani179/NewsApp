@@ -1,16 +1,37 @@
-# newsapp
+# NewsApp - Flutter
 
-A new Flutter project.
+NewsApp is a mobile application developed using Flutter that allows users to access and read news articles from various sources using the [NewsAPI.org](https://newsapi.org/) API.
 
-## Getting Started
+![Screen Shot 2023-09-30 at 8 18 21 PM](https://github.com/Phani179/NewsApp/assets/96051826/0e66836f-6ada-43d6-a130-c4a347633104)
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Browse the latest news articles from various sources.
+- View detailed information about each news article.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run this application on your local machine, follow these steps:
+
+1. Clone this repository:
+
+   git clone https://github.com/your-username/NewsApp.git
+
+2. Navigate to the project directory:
+
+   cd NewsApp
+
+3. Install the required dependencies:
+
+   flutter pub get
+
+4. Run the app on your emulator or physical device:
+
+   flutter run
+
+## Acknowledgments
+
+Thanks to NewsAPI.org for providing the news data.
+Special thanks to the Flutter community for their contributions and support.
+
+
