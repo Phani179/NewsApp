@@ -15,7 +15,7 @@ To run this application on your local machine, follow these steps:
 
 1. Clone this repository:
 
-   git clone https://github.com/your-username/NewsApp.git
+   git clone https://github.com/Phani179/NewsApp.git
 
 2. Navigate to the project directory:
 
